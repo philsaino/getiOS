@@ -19,9 +19,9 @@ Once downloaded the repo you will find:
 
 
 ## Usage: 
-1. Drag the folder getiOS on your desktop
-2. Open terminal window and `chmod +x` and drag the .command file you want to use (if you get error try `sudo chmod +x`)
-3. Double click on the .command file you have chosen 
+1. Drag the folder getiOS on your desktop (if you have enough space) or external hard-drive (better choice).
+2. Open terminal window and `cd` and drag the folder getiOS.
+3. Drag the .command file you choose.
 
 You will see a terminal window and the download will begin. 
 All firmwares available on the server will be downloaded.
